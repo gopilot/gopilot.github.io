@@ -1,0 +1,20 @@
+@media (max-width: 600px){.person img{margin-right:15px}
+.person .bio{margin-left:0}
+.large{font-size:22px}
+h1,h2,h3{font-size:35px}
+body,.person .bio{font-size:15px}
+}@media (max-width: 800px){.blurredwrap{display:none}
+.wrap{margin-left:0;padding-left:10px;padding-right:10px}
+.content,aside,.involvetype{float:none}
+h1,h2{font-size:43px;line-height:60px}
+#leader{padding-top:40px;min-height:200px}
+header{position:static;padding-top:10px;width:100%;}
+header h1{margin:0 auto;margin-top:0;width:100px;line-height:1;}
+header h1 a{width:100%;height:80px}
+header nav{width:100%;}
+header nav a{display:inline;padding:0 6px;font-size:14px}
+.sponsors li{height:50px}
+.event h2 a{font-size:80px}
+}@media (max-width: 1000px){.person{width:100%;float:none}
+.content{width:100%}
+}
